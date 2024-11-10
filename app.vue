@@ -21,7 +21,7 @@ useHead({
 
 useSeoMeta({
   title: 'FireSync - Učinkovito upravljanje intervencijama i resursima za vatrogasce',
-  description: 'Pratite intervencije i resurse vaše vatrogasne postrojbe na jednostavan i učinkovit način.'
+  description: 'Pratite intervencije i resurse vaše vatrogasne postrojbe na jednostavan i učinkovit način.',
   ogTitle: 'FireSync - Učinkovito upravljanje intervencijama i resursima za vatrogasce',
   ogDescription: 'Pratite intervencije i resurse vaše vatrogasne postrojbe na jednostavan i učinkovit način.'
 })
